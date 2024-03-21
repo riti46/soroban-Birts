@@ -1,1 +1,1 @@
-# soroban-Birts
+# Stellar-Workshop-Template
